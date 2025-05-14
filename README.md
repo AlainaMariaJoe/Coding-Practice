@@ -6,3 +6,4 @@
 4) Sum of Even numbers in a List
 5) Add two numbers
 6) Square root of a number
+7) Area of a triangle

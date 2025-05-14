@@ -1,0 +1,5 @@
+# Coding Practice
+
+1) Print "Hello World"
+2) Check if inputted number is odd or even
+3) Odd or Even using "Bitwise operators"

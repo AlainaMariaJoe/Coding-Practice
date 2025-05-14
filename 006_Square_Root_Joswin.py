@@ -6,7 +6,7 @@ def square_root(n):
 def square_root_math_function(n):
     return math.sqrt(n)
 
-n = int(input("Enter the number : "))
+n = float(input("Enter the number : "))
 
 print(square_root(n))
 print(square_root_math_function(n))

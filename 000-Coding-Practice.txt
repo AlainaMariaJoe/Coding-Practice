@@ -2,3 +2,4 @@
 2) Check if inputted number is odd or even
 3) Odd or Even using "Bitwise operators"
 4) Sum of Even numbers in a List
+5) Add two numbers

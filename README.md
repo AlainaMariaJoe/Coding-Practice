@@ -14,3 +14,4 @@
 12) Leap year or not
 13) Prime or not
 14) Generate a random number
+15) All Prime numbers in an interval

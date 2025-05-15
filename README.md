@@ -19,3 +19,4 @@
 17) Factorial of a number
 18) Multiplication Table
 19) Fibonacci Sequence 
+20) Armstrong number

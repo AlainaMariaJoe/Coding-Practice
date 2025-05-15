@@ -12,4 +12,4 @@
 10) Check if a number is Positive, Negative or Zero
 11) Largest of three numbers
 12) Leap year or not
-13) Prime of not
+13) Prime or not

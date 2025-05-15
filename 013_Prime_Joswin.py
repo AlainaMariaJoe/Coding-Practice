@@ -6,5 +6,5 @@ def prime_or_not(n):
             return False
     return True
 
-n = int(input("Enter the number : "))
-print(prime_or_not(n))
+number = int(input("Enter the number : "))
+print(prime_or_not(number))

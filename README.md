@@ -17,3 +17,4 @@
 15) All Prime numbers in an interval
 16) Convert Celsius to Fahrenheit
 17) Factorial of a number
+18) Multiplication Table

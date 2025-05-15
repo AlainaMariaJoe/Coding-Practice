@@ -16,3 +16,4 @@
 14) Generate a random number
 15) All Prime numbers in an interval
 16) Convert Celsius to Fahrenheit
+17) Factorial of a number

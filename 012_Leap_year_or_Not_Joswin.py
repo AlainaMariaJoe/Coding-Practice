@@ -10,5 +10,5 @@ def leap_year_or_not(year):
     else:
         return False
     
-year = int(input("Enter the year : "))
-print(leap_year_or_not(year))
+y = int(input("Enter the year : "))
+print(leap_year_or_not(y))

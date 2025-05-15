@@ -6,3 +6,6 @@
 6) Square root of a number
 7) Area of a triangle
 8) Swap two numbers
+9) Conversion of Km to Miles 
+10) Check if a number is Positive, Negative or Zero
+11) Largest of three numbers

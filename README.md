@@ -21,3 +21,4 @@
 19) Fibonacci Sequence 
 20) Armstrong number
 21) Armstrong number in an Interval
+22) Sum of natural numbers

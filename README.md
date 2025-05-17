@@ -25,3 +25,8 @@
 23) Powers of 2 Using Anonymous Function
 24) Numbers divisible by another number
 25) Convert Decimal to Binary, Octal, and Hexadecimal
+26) ASCII value of a character
+27) GCD of two numbers
+28) Factors of a number
+29) Simple Calculator
+30) Shuffle a deck of cards

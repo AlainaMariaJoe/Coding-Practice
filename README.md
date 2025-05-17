@@ -23,3 +23,5 @@
 21) Armstrong number in an Interval
 22) Sum of natural numbers
 23) Powers of 2 Using Anonymous Function
+24) Numbers divisible by another number
+25) Convert Decimal to Binary, Octal, and Hexadecimal

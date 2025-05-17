@@ -5,10 +5,7 @@ def Divisible_by_num_range(n, start, end):
     print()
 
 def Divisible_by_num_list(l, n):
-    for i in l:
-        if i % n == 0:
-            print(i, end =' ')
-    print()
+    print([i for i in l if i % n == 0])
 
 res = list(filter(lambda x: x % 2 == 0, range(11)))
 

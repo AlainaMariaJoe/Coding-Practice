@@ -20,3 +20,4 @@
 20) Armstrong number
 21) Armstrong number in an Interval
 22) Sum of natural numbers
+23) Powers of 2 Using Anonymous Function

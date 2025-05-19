@@ -28,3 +28,8 @@
 28) Factors of a number
 29) Simple Calculator
 30) Shuffle a deck of cards
+31) Display a calendar
+32) Fibonacci series using Recursion
+33) Sum of Natural numbers using Recursion
+34) Factorial of a Number using Recursion
+35) Decimal to Binary using Recursion

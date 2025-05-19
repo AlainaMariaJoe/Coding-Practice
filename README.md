@@ -8,30 +8,32 @@
 6) Square root of a number
 7) Area of a triangle
 8) Swap two numbers
-9) Conversion of Km to Miles 
-10) Check if a number is Positive, Negative or Zero
+9) Kilometer to Miles
+10) Number is Positive, Negative or Zero
 11) Largest of three numbers
 12) Leap year or not
 13) Prime or not
-14) Generate a random number
+14) Generate a Random Number
 15) All Prime numbers in an interval
-16) Convert Celsius to Fahrenheit
+16) Celsius to Fahrenheit
 17) Factorial of a number
 18) Multiplication Table
 19) Fibonacci Sequence 
 20) Armstrong number
 21) Armstrong number in an Interval
-22) Sum of natural numbers
-23) Powers of 2 Using Anonymous Function
+22) Sum of Natural numbers
+23) Powers of 2 Using "Anonymous Function"
 24) Numbers divisible by another number
-25) Convert Decimal to Binary, Octal, and Hexadecimal
+25) Decimal to Binary, Octal, and Hexadecimal
 26) ASCII value of a character
 27) GCD of two numbers
-28) Factors of a number
+28) Factors of a Number
 29) Simple Calculator
 30) Shuffle a deck of cards
-31) Display a calendar
+31) Display a Calendar
 32) Fibonacci series using Recursion
 33) Sum of Natural numbers using Recursion
 34) Factorial of a Number using Recursion
 35) Decimal to Binary using Recursion
+36) Add Two Matrices
+37) Transpose of a Matrix

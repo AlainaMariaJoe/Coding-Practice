@@ -39,3 +39,4 @@
 37) Transpose of a Matrix
 38) Multiplication of Two Matrices
 39) Palindrome or not
+40) Reversal of words in a sentence

@@ -37,3 +37,5 @@
 35) Decimal to Binary using Recursion
 36) Add Two Matrices
 37) Transpose of a Matrix
+38) Multiplication of Two Matrices
+39) Palindrome or not

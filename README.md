@@ -41,3 +41,6 @@
 39) Palindrome or not
 40) Reversal of words in a sentence
 41) Longest word in a sentence
+42) Remove Punctuations From a String
+43) Sort Words in Alphabetic Order
+44) Count the Number of each Vowel

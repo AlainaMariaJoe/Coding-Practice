@@ -8,6 +8,6 @@ def longest_word(s):
 def longest_word_one_liner(s):
     return max(s.split(), key=len)
 
-s = input("Enter the sentence : ")
-print(longest_word(s))
-print(longest_word_one_liner(s))
+sentence = input("Enter the sentence : ")
+print(longest_word(sentence))
+print(longest_word_one_liner(sentence))

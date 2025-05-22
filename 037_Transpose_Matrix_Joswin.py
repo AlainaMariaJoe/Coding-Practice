@@ -14,10 +14,10 @@ print("Transposed:")
 for row in transposed:
     print(row)
 
-def transpose_numpy():
+def transpose_using_numpy():
     matrix = np.array([[6, 1, 3], [9, 5, 6]])
     print(f"\nOriginal: \n{matrix}") 
     print(f"\nTransposed: \n{matrix.T}")
 
-transpose_numpy()
+transpose_using_numpy()
 

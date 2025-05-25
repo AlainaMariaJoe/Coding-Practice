@@ -1,5 +1,5 @@
 def largest (a, b, c):
-    return a if (a > b and b > c) else b if (b > a and b > c) else c
+    return a if (a > b and a > c) else b if (b > a and b > c) else c
 
 def largest_num (a, b, c):
     return max (a, b, c)

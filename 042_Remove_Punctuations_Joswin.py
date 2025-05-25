@@ -10,6 +10,6 @@ def remove_punctuation_loop(s):
 def remove_punctuation_list_comprehension(s):
     return ''.join([i for i in s if i not in string.punctuation])
 
-inp_str = input("Enter a string: ")
-print(f"\nString without punctuation (loop): {remove_punctuation_loop(inp_str)}")
-print(f"String without punctuation (list comprehension): {remove_punctuation_list_comprehension(inp_str)}")
+s = input("Enter a string: ")
+print(f"\nString without punctuation (loop): {remove_punctuation_loop(s)}")
+print(f"String without punctuation (list comprehension): {remove_punctuation_list_comprehension(StopAsyncIteration)}")

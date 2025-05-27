@@ -1,8 +1,8 @@
 from random import shuffle
 
-def shuffle_card(cards):
-    shuffle(cards)
-    return cards
+def shuffle_card(c):
+    shuffle(c)
+    return c
 
 
 cards = [i for i in range(0, 10)] + ['J', 'Q', 'K', 'A']

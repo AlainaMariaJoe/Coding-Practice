@@ -14,5 +14,5 @@ def sort_and_rearrange_string(s):
             other += i
     return upper + lower + other + space
 
-s = input("Enter the string : ")
-print(sort_and_rearrange_string(s))
+string = input("Enter the string : ")
+print(sort_and_rearrange_string(string))

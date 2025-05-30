@@ -6,9 +6,9 @@ def list_even_sum(l):
 # for i in range(n):
 #     l.append(int(input(f"Enter element {i+1} : ")))
 
-lst = list(map(int, input("Enter List : ").split(",")))
+l = list(map(int, input("Enter List : ").split(",")))
 # Input - Enter List : 1, 2, 3, 4
 
 print(lst)
-print(list_even_sum(lst))
+print(list_even_sum(l))
 # Output - 6

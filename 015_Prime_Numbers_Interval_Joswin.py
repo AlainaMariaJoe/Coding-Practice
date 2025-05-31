@@ -11,4 +11,4 @@ def prime_numbers_range(start, end):
         if if_prime(i):
             print(i, end=" ")
 
-prime_numbers_range(1, 100)
+prime_numbers_range(1, 200)

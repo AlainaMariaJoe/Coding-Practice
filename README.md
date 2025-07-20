@@ -47,3 +47,7 @@
 45) Rearrange string with capital first then small letter etc
 46) Merge two dictonary
 47) Perfect number
+48)
+49)
+50)
+51) OOPs example 1
